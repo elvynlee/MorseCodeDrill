@@ -1,1 +1,3 @@
-# MorseCodeDrill
+## MorseCodeDrill
+
+每次读取一行英文句子和翻译出一句摩斯码句子，输入答案后，检查有无错误并标示出。
